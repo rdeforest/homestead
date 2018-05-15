@@ -1,0 +1,2 @@
+- Dwarf Fortress, but without the fantasy elements
+- first running version is entirely text mode
