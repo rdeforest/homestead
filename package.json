@@ -1,0 +1,12 @@
+{
+  "name": "homestead",
+  "version": "0.0.0",
+  "description": "Dwarf Fortress, but without the fantasy elements",
+  "main": "bin/cli.coffee",
+  "scripts": {
+    "test": "cake test"
+  },
+  "keywords": [],
+  "author": "Robert de Forest <robert@defore.st>",
+  "license": "MIT"
+}
