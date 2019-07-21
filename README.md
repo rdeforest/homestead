@@ -1,2 +1,11 @@
-- Dwarf Fortress, but without the fantasy elements
-- first running version is entirely text mode
+- Dwarf Fortress
+  - minus the fantasy elements
+  - "modern" survival instead
+    - no magic
+- fortress mode only
+- first running version is entirely command-line mode
+  - simulation is still 3D
+- Fog-of-war
+  - Dwarves have memory and learn from each other
+  - Should reduce cost of path finding
+
