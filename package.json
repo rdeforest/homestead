@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "Robert de Forest <robert@defore.st>",
-  "license": "MIT",
+  "license": "ISC",
   "devDependencies": {
     "coffeescript": "^2.7.0"
   }
